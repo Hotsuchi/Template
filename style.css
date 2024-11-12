@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style: none;
+}
+html,body{
+    font-size: 16px;
+    background: var(--titcol);
+}
+:root{
+    --tit_col:red;
+    --menu_col:;
+    --txt_col:;
+    --tit_font:;
+    --menu_font: "Ubuntu",serif;
+    --txt_font: "Poppins",serif;
+    --txt2_font: "Akaya Kanadaka", serif;
+}
+.btn{
+    text-transform: uppercase;
+    font-weight: bolder;
+    padding: .3rem 1rem;
+    border-radius: .5rem;
+    color: #fff;
+    border: none;
+    font-family: "Ubuntu",serif;
+    background: rebeccapurple;
+}
+/*==================================================
+                HEADER
+===================================================*/                
+
+
+body{
+    padding: 1rem;
+    /*font-family: "Ubuntu",serif;*/
+    font-family: "Poppins",serif;
+    /*font-family: "Shrikhand", serif;
+    font-family: "Akaya Kanadaka", serif;
+    */
+}
